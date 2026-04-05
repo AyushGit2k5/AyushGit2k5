@@ -25,12 +25,16 @@ I am an Artificial Intelligence undergraduate focused on building end-to-end mac
   🔗 https://github.com/AyushGit2k5/feature-engineering-svm-ann-Image-classification
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, Java, C, C++  
-- **Libraries & Tools:** NumPy, Pandas, scikit-learn, PyTorch  
-- **Machine Learning:** Classification, Model Evaluation, Feature Engineering  
-- **NLP:** TF-IDF, Multi-label Classification, Transformers (DistilBERT)
+
+- **Programming:** Python, Java, C, C++  
+- **Machine Learning:** Classification, Model Evaluation (Accuracy, Precision, Recall, F1), Feature Engineering  
+- **Deep Learning:** Neural Networks, CNNs, PyTorch  
+- **Natural Language Processing:** TF-IDF, Multi-label Classification, Transformers (DistilBERT)  
+- **Libraries & Tools:** NumPy, Pandas, scikit-learn, PyTorch, Matplotlib  
 
 ## 🎯 Interests
 - Machine Learning  
 - Natural Language Processing  
-- Applied AI Systems  
+- Applied AI Systems
+
+## Seeking AI/ML internship opportunities where I can apply machine learning techniques to real-world problems.
