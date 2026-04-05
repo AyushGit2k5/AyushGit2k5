@@ -1,27 +1,36 @@
 # Hi, I'm Ayush 👋
 
-I am an undergraduate Artificial Intelligence student with a strong interest in Machine Learning and applied AI. I focus on building end-to-end ML systems, comparing models, and evaluating performance using appropriate metrics.
+I am an Artificial Intelligence undergraduate focused on building end-to-end machine learning systems. My work emphasizes model comparison, feature engineering, and applying the right evaluation metrics to real-world problems.
 
-## Projects
-- **CNN Image Classification (Fashion-MNIST)**  
-  Built and compared a baseline MLP and a CNN to classify clothing images, achieving improved accuracy and F1-score through spatial feature learning.  
-  🔗 https://github.com/AyushGit2k5/CNN-Image-Classification
+## 🚀 Projects
 
 - **Toxic Comment Multi-Label Classification**  
-  Developed a multi-label NLP system using TF-IDF + SVM, BiLSTM, and DistilBERT to detect different forms of online toxicity.  
+  Built a multi-label NLP system using TF-IDF + SVM, BiLSTM, and DistilBERT to detect multiple types of online toxicity.  
+  Achieved strong performance using transformer-based models with improved F1-score across labels.  
   🔗 https://github.com/AyushGit2k5/toxic-comment-multilabel-classification
 
-- **Fake News Detection**  
-  Implemented and compared Logistic Regression and Naive Bayes models using TF-IDF features to classify fake vs real news articles.  
+- **Fake News Detection (NLP)**  
+  Developed a binary text classification system using TF-IDF with Logistic Regression and Naive Bayes.  
+  Logistic Regression outperformed Naive Bayes across all evaluation metrics.  
   🔗 https://github.com/AyushGit2k5/Fake-News-Detection
 
-## Technical Skills
-- **Languages:** Python  
+- **Fashion-MNIST Image Classification (CNN vs MLP)**  
+  Implemented and compared a baseline MLP with a CNN using PyTorch for image classification.  
+  Achieved **96.7% accuracy**, demonstrating the effectiveness of convolutional architectures.  
+  🔗 https://github.com/AyushGit2k5/CNN-Image-Classification
+
+- **Feature Engineering in Image classification (SVM vs ANN)**  
+  Conducted a systematic comparison of feature extraction methods (HOG, LBP, Raw Pixels) with SVM and ANN classifiers.  
+  Demonstrated the impact of feature engineering on model performance, with HOG features achieving the best results.  
+  🔗 (add your repo link here)
+
+## 🛠️ Technical Skills
+- **Languages:** Python, Java, C, C++  
 - **Libraries & Tools:** NumPy, Pandas, scikit-learn, PyTorch  
 - **Machine Learning:** Classification, Model Evaluation, Feature Engineering  
 - **NLP:** TF-IDF, Multi-label Classification, Transformers (DistilBERT)
 
-## Interests
-- Machine Learning
-- Natural Language Processing
-- Applied AI Systems
+## 🎯 Interests
+- Machine Learning  
+- Natural Language Processing  
+- Applied AI Systems  
