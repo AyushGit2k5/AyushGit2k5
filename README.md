@@ -16,7 +16,7 @@ I am an Artificial Intelligence undergraduate focused on building end-to-end mac
 
 - **Fashion-MNIST Image Classification (CNN vs MLP)**  
   Implemented and compared a baseline MLP with a CNN using PyTorch for image classification.  
-  Achieved **96.7% accuracy**, demonstrating the effectiveness of convolutional architectures.  
+  Achieved a high accuracy, demonstrating the effectiveness of convolutional architectures.  
   🔗 https://github.com/AyushGit2k5/CNN-Image-Classification
 
 - **Feature Engineering in Image classification (SVM vs ANN)**  
