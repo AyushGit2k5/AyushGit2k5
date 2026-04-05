@@ -22,7 +22,7 @@ I am an Artificial Intelligence undergraduate focused on building end-to-end mac
 - **Feature Engineering in Image classification (SVM vs ANN)**  
   Conducted a systematic comparison of feature extraction methods (HOG, LBP, Raw Pixels) with SVM and ANN classifiers.  
   Demonstrated the impact of feature engineering on model performance, with HOG features achieving the best results.  
-  🔗 (add your repo link here)
+  🔗 https://github.com/AyushGit2k5/feature-engineering-svm-ann-Image-classification
 
 ## 🛠️ Technical Skills
 - **Languages:** Python, Java, C, C++  
