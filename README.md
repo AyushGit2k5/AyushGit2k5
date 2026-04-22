@@ -1,40 +1,59 @@
-# Hi, I'm Ayush 👋
+## Hi, I'm Ayush 👋
 
-I am an Artificial Intelligence undergraduate focused on building end-to-end machine learning systems. My work emphasizes model comparison, feature engineering, and applying the right evaluation metrics to real-world problems.
+Final-year Artificial Intelligence student at the University of Technology Sydney, focused on building practical, end-to-end machine learning systems. My work emphasizes model comparison, feature engineering, and translating ML concepts into real-world applications.
+
+---
 
 ## 🚀 Projects
 
-- **Toxic Comment Multi-Label Classification**  
-  Built a multi-label NLP system using TF-IDF + SVM, BiLSTM, and DistilBERT to detect multiple types of online toxicity.  
-  Achieved strong performance using transformer-based models with improved F1-score across labels.  
-  🔗 https://github.com/AyushGit2k5/toxic-comment-multilabel-classification
+### RAG Document Assistant (LLM Application)
+Built an end-to-end Retrieval-Augmented Generation (RAG) system for document-based question answering. Implemented document ingestion, semantic search using embeddings, and LLM-based response generation to enable contextual, accurate answers from user-provided PDFs.
+🔗 https://github.com/AyushGit2k5/RAG-document-assistant
 
-- **Fake News Detection (NLP)**  
-  Developed a binary text classification system using TF-IDF with Logistic Regression and Naive Bayes.  
-  Logistic Regression outperformed Naive Bayes across all evaluation metrics.  
-  🔗 https://github.com/AyushGit2k5/Fake-News-Detection
+---
 
-- **Fashion-MNIST Image Classification (CNN vs MLP)**  
-  Implemented and compared a baseline MLP with a CNN using PyTorch for image classification.  
-  Achieved a high accuracy, demonstrating the effectiveness of convolutional architectures.  
-  🔗 https://github.com/AyushGit2k5/CNN-Image-Classification
+### Toxic Comment Multi-Label Classification (NLP)
+Developed a multi-label classification system using TF-IDF + SVM, BiLSTM, and DistilBERT to detect multiple categories of online toxicity. Demonstrated the effectiveness of transformer-based models for handling context-dependent language.
+🔗 https://github.com/AyushGit2k5/toxic-comment-multilabel-classification
 
-- **Feature Engineering in Image classification (SVM vs ANN)**  
-  Conducted a systematic comparison of feature extraction methods (HOG, LBP, Raw Pixels) with SVM and ANN classifiers.  
-  Demonstrated the impact of feature engineering on model performance, with HOG features achieving the best results.  
-  🔗 https://github.com/AyushGit2k5/feature-engineering-svm-ann-Image-classification
+---
+
+### Fashion-MNIST Image Classification (CNN vs MLP)
+Implemented and compared a baseline MLP with a CNN using PyTorch, highlighting the advantage of convolutional architectures in capturing spatial features for image classification tasks.
+🔗 https://github.com/AyushGit2k5/CNN-Image-Classification
+
+---
+
+### Feature Engineering in Image Classification (SVM vs ANN)
+Conducted a comparative study of feature extraction methods (HOG, LBP, Raw Pixels) with SVM and ANN classifiers, analyzing how different representations impact model performance.
+🔗 https://github.com/AyushGit2k5/feature-engineering-svm-ann-Image-classification
+
+---
+
+### Fake News Detection (NLP)
+Built a binary text classification system using TF-IDF with Logistic Regression and Naive Bayes, focusing on baseline model comparison and evaluation.
+🔗 https://github.com/AyushGit2k5/Fake-News-Detection
+
+---
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python, Java, C, C++  
-- **Machine Learning:** Classification, Model Evaluation (Accuracy, Precision, Recall, F1), Feature Engineering  
-- **Deep Learning:** Neural Networks, CNNs, PyTorch  
-- **Natural Language Processing:** TF-IDF, Multi-label Classification, Transformers (DistilBERT)  
-- **Libraries & Tools:** NumPy, Pandas, scikit-learn, PyTorch, Matplotlib  
+**Languages:** Python  
+**Machine Learning & AI:** Model Development, Evaluation, Feature Engineering  
+**Deep Learning:** Neural Networks, CNNs (PyTorch)  
+**NLP:** TF-IDF, Multi-label Classification, Transformers (DistilBERT)  
+**Tools & Libraries:** NumPy, Pandas, scikit-learn, PyTorch, Matplotlib, Git, GitHub  
+
+---
 
 ## 🎯 Interests
+
 - Machine Learning  
 - Natural Language Processing  
-- Applied AI Systems
+- Applied AI Systems  
 
-## Seeking AI/ML internship opportunities where I can apply machine learning techniques to real-world problems.
+---
+
+## 📌 Currently
+
+Seeking AI/ML or software engineering internship opportunities where I can contribute to building practical, real-world systems.
