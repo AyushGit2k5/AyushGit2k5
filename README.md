@@ -5,6 +5,12 @@ Final-year Artificial Intelligence student at the University of Technology Sydne
 ---
 
 ## 🚀 Projects
+### AI Powered chrome extension
+Built an autonomous AI-powered Chrome Extension that performs webpage summarization, deep web research, and contextual question answering using Groq LLMs and Tavily Search API. Designed a multi-step agentic workflow combining content extraction, web search, reasoning, and cloud-hosted backend deployment using Node.js and Render.
+🔗 https://github.com/AyushGit2k5/Agentic-AI-extension-application
+
+---
+
 
 ### RAG Document Assistant (LLM Application)
 Built an end-to-end Retrieval-Augmented Generation (RAG) system for document-based question answering. Implemented document ingestion, semantic search using embeddings, and LLM-based response generation to enable contextual, accurate answers from user-provided PDFs.
