@@ -1,6 +1,6 @@
 ## Hi, I'm Ayush 👋
 
-Final-year Artificial Intelligence student at the University of Technology Sydney, focused on building practical, end-to-end machine learning systems. My work emphasizes translating ML problems to real-world applications, model comparison, and feature engineering.
+Final-year Artificial Intelligence student at the University of Technology Sydney, focused on building and deploying AI-powered applications and machine learning systems. Experienced with LLM applications, agentic AI, RAG, NLP, computer vision, and predictive modelling, with projects spanning API development, AI automation, and deployed web applications.
 
 ---
 
