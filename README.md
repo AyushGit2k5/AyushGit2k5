@@ -28,8 +28,16 @@ Built an autonomous AI-powered Chrome Extension that performs webpage summarizat
 🔗 https://github.com/AyushGit2k5/Agentic-AI-extension-application
 
 ---
+<h3>Predictive Maintenance for Heavy-Duty Trucks</h3>
+<p>
+Developed machine learning models for predictive maintenance using large-scale Scania heavy-truck sensor data. Applied feature engineering, class-imbalance handling, hyperparameter tuning, and threshold optimisation across Random Forest, XGBoost, and LightGBM, with LightGBM selected as the final model for Component X failure prediction.
+</p>
 
-
+<p>
+🔗 <a href="https://github.com/AyushGit2k5/AI-Capstone-Project---Predictive-Maintenance-for-Heavy-Vehicle-Components">
+GitHub Repository
+</a>
+</p>
 ### RAG Document Assistant (LLM Application)
 Built an end-to-end Retrieval-Augmented Generation (RAG) system for document-based question answering. Implemented document ingestion, semantic search using embeddings, and LLM-based response generation to enable contextual, accurate answers from user-provided PDFs.
 🔗 https://github.com/AyushGit2k5/RAG-document-assistant
