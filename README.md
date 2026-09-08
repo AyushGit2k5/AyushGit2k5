@@ -23,7 +23,7 @@ Built and deployed an AI-powered programming tutor that analyzes user code and p
 </p>
 
 <hr>
-## AI Powered chrome extension
+<h3>AI Powered Chrome Extension</h3>
 Built an autonomous AI-powered Chrome Extension that performs webpage summarization, deep web research, and contextual question answering using Groq LLMs and Tavily Search API. Designed a multi-step agentic workflow combining content extraction, web search, reasoning, and cloud-hosted backend deployment using Node.js and Render.
 🔗 https://github.com/AyushGit2k5/Agentic-AI-extension-application
 
