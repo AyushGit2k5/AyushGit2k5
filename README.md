@@ -38,7 +38,7 @@ Developed machine learning models for predictive maintenance using large-scale S
 GitHub Repository
 </a>
 </p>
-### RAG Document Assistant (LLM Application)
+<h3>RAG Document Assistant</h3>
 Built an end-to-end Retrieval-Augmented Generation (RAG) system for document-based question answering. Implemented document ingestion, semantic search using embeddings, and LLM-based response generation to enable contextual, accurate answers from user-provided PDFs.
 🔗 https://github.com/AyushGit2k5/RAG-document-assistant
 
