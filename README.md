@@ -5,6 +5,24 @@ Final-year Artificial Intelligence student at the University of Technology Sydne
 ---
 
 ## 🚀 Projects
+
+<h3>AI Programming Tutor</h3>
+
+<p>
+Built and deployed an AI-powered programming tutor that analyzes user code and provides progressive three-level hints without immediately revealing the solution. Identifies syntax, runtime, logic, algorithm, and code-quality issues while tracking previous attempts through session-based tutoring. Developed using Python, FastAPI, Groq LLMs, JavaScript, HTML/CSS, and deployed on Render.
+</p>
+
+<p>
+  <a href="https://github.com/AyushGit2k5/ai-programming-tutor">
+    GitHub Repository
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://ai-programming-tutor.onrender.com">
+    Live Demo
+  </a>
+</p>
+
+<hr>
 ### AI Powered chrome extension
 Built an autonomous AI-powered Chrome Extension that performs webpage summarization, deep web research, and contextual question answering using Groq LLMs and Tavily Search API. Designed a multi-step agentic workflow combining content extraction, web search, reasoning, and cloud-hosted backend deployment using Node.js and Render.
 🔗 https://github.com/AyushGit2k5/Agentic-AI-extension-application
