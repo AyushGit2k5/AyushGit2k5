@@ -71,6 +71,7 @@ Built a binary text classification system using TF-IDF with Logistic Regression 
 ## 🛠️ Technical Skills
 
 **Languages:** Python, JavaScript, SQL, Java
+
 **AI & Machine Learning:** LLMs, Agentic AI, RAG, NLP, Computer Vision, Predictive Modelling, Feature Engineering, Model Evaluation  
 **Frameworks & Libraries:** FastAPI, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Streamlit  
 **AI & Development Tools:** Groq API, OpenAI API, REST APIs, Git, GitHub, Render    
@@ -79,12 +80,13 @@ Built a binary text classification system using TF-IDF with Logistic Regression 
 
 ## 🎯 Interests
 
-- Machine Learning  
+- AI Engineering & LLM Applications
+- Agentic AI & AI Automation
+- Machine Learning & Applied AI
 - Natural Language Processing  
-- Applied AI Systems  
 
 ---
 
 ## 📌 Currently
 
-Seeking AI/ML or software engineering internship opportunities where I can contribute to building practical, real-world systems.
+Building and deploying AI applications while seeking AI/ML, AI Engineering, AI Automation, and Machine Learning internship and graduate opportunities.
