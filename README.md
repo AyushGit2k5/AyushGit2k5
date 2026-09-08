@@ -70,11 +70,10 @@ Built a binary text classification system using TF-IDF with Logistic Regression 
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python  
-**Machine Learning & AI:** Model Development, Evaluation, Feature Engineering  
-**Deep Learning:** Neural Networks, CNNs (PyTorch)  
-**NLP:** TF-IDF, Multi-label Classification, Transformers (DistilBERT)  
-**Tools & Libraries:** NumPy, Pandas, scikit-learn, PyTorch, Matplotlib, Git, GitHub  
+**Languages:** Python, JavaScript, SQL, Java
+**AI & Machine Learning:** LLMs, Agentic AI, RAG, NLP, Computer Vision, Predictive Modelling, Feature Engineering, Model Evaluation  
+**Frameworks & Libraries:** FastAPI, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Streamlit  
+**AI & Development Tools:** Groq API, OpenAI API, REST APIs, Git, GitHub, Render    
 
 ---
 
